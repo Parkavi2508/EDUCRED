@@ -1,0 +1,6 @@
+{
+  "name": "EduCred - Teacher Contribution Verification & Recognition Platform",
+  "description": "Make every contribution visible. A trusted platform for educators and institutions to document, verify with AI assistance, and recognize professional teaching achievements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
